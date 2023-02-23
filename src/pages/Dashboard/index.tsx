@@ -5,7 +5,7 @@ function Dashboard() {
 	return (
 		<Navigation>
 			<div>
-				<h1>HI</h1>
+				<h1>Hello</h1>
 				<Button name='Hello' type={ButtonType.OUTLINE} />
 				<Button name='Hello' type={ButtonType.SOLID} />
 			</div>
