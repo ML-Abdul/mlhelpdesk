@@ -5,6 +5,7 @@ function Dashboard() {
 	return (
 		<Navigation>
 			<div>
+				<h1>HI</h1>
 				<Button name='Hello' type={ButtonType.OUTLINE} />
 			</div>
 		</Navigation>
