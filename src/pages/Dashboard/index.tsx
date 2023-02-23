@@ -6,6 +6,7 @@ function Dashboard() {
 		<Navigation>
 			<div>
 				<Button name='Hello' type={ButtonType.OUTLINE} />
+				<Button name='Hello' type={ButtonType.SOLID} />
 			</div>
 		</Navigation>
 	);
